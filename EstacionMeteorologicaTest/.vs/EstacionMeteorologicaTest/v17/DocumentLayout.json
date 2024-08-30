@@ -1,0 +1,60 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jaden\\Desktop\\Proyecto\\EstacionMeteorologicaLib\\EstacionMeteorologicaTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF61E564-5080-4771-B016-D3DF7EF24D54}|EstacionMeteorologicaTest\\EstacionMeteorologicaTest.csproj|c:\\users\\jaden\\desktop\\proyecto\\estacionmeteorologicalib\\estacionmeteorologicatest\\estacionmeteorologicatest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF61E564-5080-4771-B016-D3DF7EF24D54}|EstacionMeteorologicaTest\\EstacionMeteorologicaTest.csproj|solutionrelative:estacionmeteorologicatest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E2AFBD1-E4C2-4F14-9701-6F58BDF7FE2F}|..\\EstacionMeteorologicaLib\\EstacionMeteorologicaLib\\EstacionMeteorologicaLib.csproj|c:\\users\\jaden\\desktop\\proyecto\\estacionmeteorologicalib\\estacionmeteorologicalib\\estacionmeteorologicalib\\estacionmeteorologica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EstacionMeteorologica.cs",
+              "DocumentMoniker": "C:\\Users\\jaden\\Desktop\\Proyecto\\EstacionMeteorologicaLib\\EstacionMeteorologicaLib\\EstacionMeteorologicaLib\\EstacionMeteorologica.cs",
+              "RelativeDocumentMoniker": "..\\EstacionMeteorologicaLib\\EstacionMeteorologicaLib\\EstacionMeteorologica.cs",
+              "ToolTip": "C:\\Users\\jaden\\Desktop\\Proyecto\\EstacionMeteorologicaLib\\EstacionMeteorologicaLib\\EstacionMeteorologicaLib\\EstacionMeteorologica.cs",
+              "RelativeToolTip": "..\\EstacionMeteorologicaLib\\EstacionMeteorologicaLib\\EstacionMeteorologica.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAcwFYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T01:18:15.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jaden\\Desktop\\Proyecto\\EstacionMeteorologicaLib\\EstacionMeteorologicaTest\\EstacionMeteorologicaTest\\Program.cs",
+              "RelativeDocumentMoniker": "EstacionMeteorologicaTest\\Program.cs",
+              "ToolTip": "C:\\Users\\jaden\\Desktop\\Proyecto\\EstacionMeteorologicaLib\\EstacionMeteorologicaTest\\EstacionMeteorologicaTest\\Program.cs",
+              "RelativeToolTip": "EstacionMeteorologicaTest\\Program.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAowAkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T01:12:50.708Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

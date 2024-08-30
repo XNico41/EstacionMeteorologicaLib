@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jaden\\Desktop\\Proyecto\\EstacionMeteorologicaLib\\EstacionMeteorologicaLib\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF113DC1-0DA6-408C-BC52-7E0E3EB04F58}|EstacionMeteorologicaLib\\EstacionMeteorologicaLib.csproj|c:\\users\\jaden\\desktop\\proyecto\\estacionmeteorologicalib\\estacionmeteorologicalib\\estacionmeteorologicalib\\calculotemperaturas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF113DC1-0DA6-408C-BC52-7E0E3EB04F58}|EstacionMeteorologicaLib\\EstacionMeteorologicaLib.csproj|solutionrelative:estacionmeteorologicalib\\calculotemperaturas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF113DC1-0DA6-408C-BC52-7E0E3EB04F58}|EstacionMeteorologicaLib\\EstacionMeteorologicaLib.csproj|c:\\users\\jaden\\desktop\\proyecto\\estacionmeteorologicalib\\estacionmeteorologicalib\\estacionmeteorologicalib\\estacionmeteorologica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF113DC1-0DA6-408C-BC52-7E0E3EB04F58}|EstacionMeteorologicaLib\\EstacionMeteorologicaLib.csproj|solutionrelative:estacionmeteorologicalib\\estacionmeteorologica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF113DC1-0DA6-408C-BC52-7E0E3EB04F58}|EstacionMeteorologicaLib\\EstacionMeteorologicaLib.csproj|c:\\users\\jaden\\desktop\\proyecto\\estacionmeteorologicalib\\estacionmeteorologicalib\\estacionmeteorologicalib\\registrotemperatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF113DC1-0DA6-408C-BC52-7E0E3EB04F58}|EstacionMeteorologicaLib\\EstacionMeteorologicaLib.csproj|solutionrelative:estacionmeteorologicalib\\registrotemperatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF113DC1-0DA6-408C-BC52-7E0E3EB04F58}|EstacionMeteorologicaLib\\EstacionMeteorologicaLib.csproj|c:\\users\\jaden\\desktop\\proyecto\\estacionmeteorologicalib\\estacionmeteorologicalib\\estacionmeteorologicalib\\profesional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF113DC1-0DA6-408C-BC52-7E0E3EB04F58}|EstacionMeteorologicaLib\\EstacionMeteorologicaLib.csproj|solutionrelative:estacionmeteorologicalib\\profesional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF113DC1-0DA6-408C-BC52-7E0E3EB04F58}|EstacionMeteorologicaLib\\EstacionMeteorologicaLib.csproj|c:\\users\\jaden\\desktop\\proyecto\\estacionmeteorologicalib\\estacionmeteorologicalib\\estacionmeteorologicalib\\pasante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF113DC1-0DA6-408C-BC52-7E0E3EB04F58}|EstacionMeteorologicaLib\\EstacionMeteorologicaLib.csproj|solutionrelative:estacionmeteorologicalib\\pasante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF113DC1-0DA6-408C-BC52-7E0E3EB04F58}|EstacionMeteorologicaLib\\EstacionMeteorologicaLib.csproj|c:\\users\\jaden\\desktop\\proyecto\\estacionmeteorologicalib\\estacionmeteorologicalib\\estacionmeteorologicalib\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF113DC1-0DA6-408C-BC52-7E0E3EB04F58}|EstacionMeteorologicaLib\\EstacionMeteorologicaLib.csproj|solutionrelative:estacionmeteorologicalib\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculoTemperaturas.cs",
+              "DocumentMoniker": "C:\\Users\\jaden\\Desktop\\Proyecto\\EstacionMeteorologicaLib\\EstacionMeteorologicaLib\\EstacionMeteorologicaLib\\CalculoTemperaturas.cs",
+              "RelativeDocumentMoniker": "EstacionMeteorologicaLib\\CalculoTemperaturas.cs",
+              "ToolTip": "C:\\Users\\jaden\\Desktop\\Proyecto\\EstacionMeteorologicaLib\\EstacionMeteorologicaLib\\EstacionMeteorologicaLib\\CalculoTemperaturas.cs",
+              "RelativeToolTip": "EstacionMeteorologicaLib\\CalculoTemperaturas.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAIwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T01:11:17.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EstacionMeteorologica.cs",
+              "DocumentMoniker": "C:\\Users\\jaden\\Desktop\\Proyecto\\EstacionMeteorologicaLib\\EstacionMeteorologicaLib\\EstacionMeteorologicaLib\\EstacionMeteorologica.cs",
+              "RelativeDocumentMoniker": "EstacionMeteorologicaLib\\EstacionMeteorologica.cs",
+              "ToolTip": "C:\\Users\\jaden\\Desktop\\Proyecto\\EstacionMeteorologicaLib\\EstacionMeteorologicaLib\\EstacionMeteorologicaLib\\EstacionMeteorologica.cs",
+              "RelativeToolTip": "EstacionMeteorologicaLib\\EstacionMeteorologica.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAcwFYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T01:10:58.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegistroTemperatura.cs",
+              "DocumentMoniker": "C:\\Users\\jaden\\Desktop\\Proyecto\\EstacionMeteorologicaLib\\EstacionMeteorologicaLib\\EstacionMeteorologicaLib\\RegistroTemperatura.cs",
+              "RelativeDocumentMoniker": "EstacionMeteorologicaLib\\RegistroTemperatura.cs",
+              "ToolTip": "C:\\Users\\jaden\\Desktop\\Proyecto\\EstacionMeteorologicaLib\\EstacionMeteorologicaLib\\EstacionMeteorologicaLib\\RegistroTemperatura.cs",
+              "RelativeToolTip": "EstacionMeteorologicaLib\\RegistroTemperatura.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T01:10:29.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Profesional.cs",
+              "DocumentMoniker": "C:\\Users\\jaden\\Desktop\\Proyecto\\EstacionMeteorologicaLib\\EstacionMeteorologicaLib\\EstacionMeteorologicaLib\\Profesional.cs",
+              "RelativeDocumentMoniker": "EstacionMeteorologicaLib\\Profesional.cs",
+              "ToolTip": "C:\\Users\\jaden\\Desktop\\Proyecto\\EstacionMeteorologicaLib\\EstacionMeteorologicaLib\\EstacionMeteorologicaLib\\Profesional.cs",
+              "RelativeToolTip": "EstacionMeteorologicaLib\\Profesional.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T01:10:00.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\jaden\\Desktop\\Proyecto\\EstacionMeteorologicaLib\\EstacionMeteorologicaLib\\EstacionMeteorologicaLib\\Persona.cs",
+              "RelativeDocumentMoniker": "EstacionMeteorologicaLib\\Persona.cs",
+              "ToolTip": "C:\\Users\\jaden\\Desktop\\Proyecto\\EstacionMeteorologicaLib\\EstacionMeteorologicaLib\\EstacionMeteorologicaLib\\Persona.cs",
+              "RelativeToolTip": "EstacionMeteorologicaLib\\Persona.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T01:09:18.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Pasante.cs",
+              "DocumentMoniker": "C:\\Users\\jaden\\Desktop\\Proyecto\\EstacionMeteorologicaLib\\EstacionMeteorologicaLib\\EstacionMeteorologicaLib\\Pasante.cs",
+              "RelativeDocumentMoniker": "EstacionMeteorologicaLib\\Pasante.cs",
+              "ToolTip": "C:\\Users\\jaden\\Desktop\\Proyecto\\EstacionMeteorologicaLib\\EstacionMeteorologicaLib\\EstacionMeteorologicaLib\\Pasante.cs",
+              "RelativeToolTip": "EstacionMeteorologicaLib\\Pasante.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T01:08:26.857Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

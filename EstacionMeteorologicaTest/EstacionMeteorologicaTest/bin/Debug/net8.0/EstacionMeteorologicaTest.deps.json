@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "EstacionMeteorologicaTest/1.0.0": {
+        "dependencies": {
+          "EstacionMeteorologicaLib": "1.0.0"
+        },
+        "runtime": {
+          "EstacionMeteorologicaTest.dll": {}
+        }
+      },
+      "EstacionMeteorologicaLib/1.0.0": {
+        "runtime": {
+          "EstacionMeteorologicaLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EstacionMeteorologicaTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EstacionMeteorologicaLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

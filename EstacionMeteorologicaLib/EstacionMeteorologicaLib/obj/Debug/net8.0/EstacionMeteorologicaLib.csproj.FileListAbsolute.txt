@@ -1,0 +1,11 @@
+C:\Users\jaden\Desktop\Proyecto\EstacionMeteorologicaLib\EstacionMeteorologicaLib\EstacionMeteorologicaLib\bin\Debug\net8.0\EstacionMeteorologicaLib.deps.json
+C:\Users\jaden\Desktop\Proyecto\EstacionMeteorologicaLib\EstacionMeteorologicaLib\EstacionMeteorologicaLib\bin\Debug\net8.0\EstacionMeteorologicaLib.dll
+C:\Users\jaden\Desktop\Proyecto\EstacionMeteorologicaLib\EstacionMeteorologicaLib\EstacionMeteorologicaLib\bin\Debug\net8.0\EstacionMeteorologicaLib.pdb
+C:\Users\jaden\Desktop\Proyecto\EstacionMeteorologicaLib\EstacionMeteorologicaLib\EstacionMeteorologicaLib\obj\Debug\net8.0\EstacionMeteorologicaLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaden\Desktop\Proyecto\EstacionMeteorologicaLib\EstacionMeteorologicaLib\EstacionMeteorologicaLib\obj\Debug\net8.0\EstacionMeteorologicaLib.AssemblyInfoInputs.cache
+C:\Users\jaden\Desktop\Proyecto\EstacionMeteorologicaLib\EstacionMeteorologicaLib\EstacionMeteorologicaLib\obj\Debug\net8.0\EstacionMeteorologicaLib.AssemblyInfo.cs
+C:\Users\jaden\Desktop\Proyecto\EstacionMeteorologicaLib\EstacionMeteorologicaLib\EstacionMeteorologicaLib\obj\Debug\net8.0\EstacionMeteorologicaLib.csproj.CoreCompileInputs.cache
+C:\Users\jaden\Desktop\Proyecto\EstacionMeteorologicaLib\EstacionMeteorologicaLib\EstacionMeteorologicaLib\obj\Debug\net8.0\EstacionMeteorologicaLib.dll
+C:\Users\jaden\Desktop\Proyecto\EstacionMeteorologicaLib\EstacionMeteorologicaLib\EstacionMeteorologicaLib\obj\Debug\net8.0\refint\EstacionMeteorologicaLib.dll
+C:\Users\jaden\Desktop\Proyecto\EstacionMeteorologicaLib\EstacionMeteorologicaLib\EstacionMeteorologicaLib\obj\Debug\net8.0\EstacionMeteorologicaLib.pdb
+C:\Users\jaden\Desktop\Proyecto\EstacionMeteorologicaLib\EstacionMeteorologicaLib\EstacionMeteorologicaLib\obj\Debug\net8.0\ref\EstacionMeteorologicaLib.dll
